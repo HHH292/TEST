@@ -6,7 +6,7 @@ from os import system as clr
 import random
 import string 
 from concurrent.futures import ThreadPoolExecutor as tred
-import requests
+import request
 import re
 import sys
 import uuid
